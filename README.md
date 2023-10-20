@@ -14,10 +14,12 @@ The goal of this project is to combine everything you have learned about data wr
    - null values, columns drop, duplicated data, string manipulation, apply fn, categorize, regex, etc.
 5. Show data that validates the conclusions based on your research questions in a file named `analysis.ipynb`
 6. Build a compelling story-telling around your findings. Think of your stakeholders and convince them with your conclusions! (Some slides with few text and pretty plots are normally useful)
-7. Encapsulate your code into functions and save them into `.py` files: make sure you have docstrings
-8. Import those functions into your jupyter notebooks and call them (you will substitue your code with your own functions)
-9. Work on titles and comments to have a well presented and cohesive story in your notebook
-10. Include a slide-based presentation where you present your findings/conclusions/insights.
+
+Bonus (but...bonus?)
+8. Encapsulate your code into functions and save them into `.py` files: make sure you have docstrings
+9. Import those functions into your jupyter notebooks and call them (you will substitue your code with your own functions)
+10. Work on titles and comments to have a well presented and cohesive story in your notebook
+11. Include a slide-based presentation where you present your findings/conclusions/insights.
 
 ## Suggested Ways to Get Started
 
